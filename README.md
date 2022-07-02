@@ -1,7 +1,7 @@
-- 👋 Hi, I’m nidnaT
-- 👀 I’m interested in Learning something new every now and then.
-- 🌱 I’m currently learning Python and Machine Learning.
-- 💞️ I’m looking to collaborate on new Projects and Application Development
+- 👋 Hi, I’m Tandin performing on stage of life.
+- 👀 I’m interested in learning new things every now and then.
+- 🌱 I’m currently trying to learn whatever I can.
+- 💞️ I’m looking to collaborate on new Projects and Application Development.
 - 📫 You can contact me through www.0from1.wordpress.com
 
 <!---
